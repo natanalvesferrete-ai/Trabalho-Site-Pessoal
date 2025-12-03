@@ -1,0 +1,7 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="#182c3a"/>
+  <g opacity="0.35">
+    <path d="M0 800 Q960 1000 1920 800" stroke="#0094ff" stroke-width="8" fill="none"/>
+    <path d="M0 400 Q960 600 1920 400" stroke="#33cfff" stroke-width="6" fill="none"/>
+  </g>
+</svg>
